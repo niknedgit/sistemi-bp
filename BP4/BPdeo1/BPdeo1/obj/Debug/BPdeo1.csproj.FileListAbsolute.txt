@@ -1,0 +1,146 @@
+D:\Work Space\Baze\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csprojAssemblyReference.cache
+D:\Work Space\Baze\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Properties.Resources.resources
+D:\Work Space\Baze\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.GenerateResource.cache
+D:\Work Space\Baze\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CoreCompileInputs.cache
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csprojAssemblyReference.cache
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Form1.resources
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Properties.Resources.resources
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.GenerateResource.cache
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CoreCompileInputs.cache
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\BPdeo1.exe.config
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\BPdeo1.exe
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\BPdeo1.pdb
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.NHibernate.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\NHibernate.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.xml
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.pdb
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.xml
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.xml
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.xml
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.xml
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\NHibernate.xml
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.xml
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CopyComplete
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\obj\Debug\BPdeo1.exe
+D:\VI semestar\Sistemi baza podataka\BPdeo1\BPdeo1\obj\Debug\BPdeo1.pdb
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\BPdeo1.exe.config
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\BPdeo1.exe
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\BPdeo1.pdb
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.NHibernate.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\NHibernate.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.xml
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.pdb
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.xml
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.xml
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.xml
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\NHibernate.xml
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.xml
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Form1.resources
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Properties.Resources.resources
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.GenerateResource.cache
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CoreCompileInputs.cache
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CopyComplete
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\obj\Debug\BPdeo1.exe
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\obj\Debug\BPdeo1.pdb
+C:\Users\MarijaStankovic\SISTEMI BAZA PODATAKA\master\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csprojAssemblyReference.cache
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.dll.config
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.pdb
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.NHibernate.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\NHibernate.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.pdb
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\FluentMigrator.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\NHibernate.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Form1.resources
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Properties.Resources.resources
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.GenerateResource.cache
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CoreCompileInputs.cache
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CopyComplete
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.pdb
+C:\Users\MarijaStankovic\S B P\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csprojAssemblyReference.cache
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.dll.config
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.pdb
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\NHibernate.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\NHibernate.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csprojAssemblyReference.cache
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Form1.resources
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Properties.Resources.resources
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.GenerateResource.cache
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CoreCompileInputs.cache
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CopyComplete
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.pdb
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.dll.config
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\BPdeo1.pdb
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\NHibernate.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Antlr3.Runtime.xml
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\FluentNHibernate.xml
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Iesi.Collections.xml
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Newtonsoft.Json.xml
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\NHibernate.xml
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.xml
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csprojAssemblyReference.cache
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Form1.resources
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.Properties.Resources.resources
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.GenerateResource.cache
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CoreCompileInputs.cache
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.csproj.CopyComplete
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.dll
+D:\VI semestar\Sistemi baza podataka\BP4\BPdeo1\BPdeo1\obj\Debug\BPdeo1.pdb

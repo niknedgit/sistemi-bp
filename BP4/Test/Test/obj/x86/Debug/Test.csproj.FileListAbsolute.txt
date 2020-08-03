@@ -1,0 +1,419 @@
+C:\Users\Bogda\Desktop\Test\Test\bin\Test.dll.config
+C:\Users\Bogda\Desktop\Test\Test\bin\Test.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Test.pdb
+C:\Users\Bogda\Desktop\Test\Test\bin\Antlr3.Runtime.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\EntityFramework.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Data.Edm.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Data.OData.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Newtonsoft.Json.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Net.Http.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Net.Http.WebRequest.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Spatial.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Helpers.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Http.OData.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Http.Tracing.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Mvc.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Optimization.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Providers.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Razor.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\WebGrease.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\FluentNHibernate.pdb
+C:\Users\Bogda\Desktop\Test\Test\bin\FluentNHibernate.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\Iesi.Collections.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\NHibernate.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\NHibernate.Linq.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\EntityFramework.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\Newtonsoft.Json.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Net.Http.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Net.Http.WebRequest.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Helpers.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Mvc.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Razor.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Http.Tracing.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Web.Http.OData.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Data.Edm.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\Microsoft.Data.OData.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\System.Spatial.xml
+C:\Users\Bogda\Desktop\Test\Test\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\de\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\es\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\fr\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\it\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ja\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ko\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\ru\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bogda\Desktop\Test\Test\obj\x86\Debug\Test.dll
+C:\Users\Bogda\Desktop\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bogda\Desktop\Test\Test\bin\Prodavnica.dll
+C:\Users\Bogda\Desktop\Test\Test\bin\Prodavnica.pdb
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Test.dll.config
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Test.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Test.pdb
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Antlr3.Runtime.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\EntityFramework.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Microsoft.Data.Edm.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Microsoft.Data.OData.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Newtonsoft.Json.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Prodavnica.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Net.Http.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Net.Http.WebRequest.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Spatial.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Helpers.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Http.OData.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Http.Tracing.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Mvc.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Optimization.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Providers.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Razor.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.WebPages.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\WebGrease.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Prodavnica.pdb
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\EntityFramework.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Newtonsoft.Json.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Net.Http.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Net.Http.WebRequest.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Helpers.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Mvc.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Razor.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.WebPages.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Http.Tracing.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Web.Http.OData.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Microsoft.Data.Edm.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\Microsoft.Data.OData.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\System.Spatial.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\de\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\es\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\fr\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\it\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ja\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ko\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\ru\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\obj\x86\Debug\Test.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\obj\x86\Debug\Test.csprojAssemblyReference.cache
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\obj\x86\Debug\Test.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\obj\x86\Debug\Test.pdb
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Test.dll.config
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Test.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Test.pdb
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Antlr3.Runtime.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\BPdeo1.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\EntityFramework.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\FluentNHibernate.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Iesi.Collections.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Microsoft.Data.Edm.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Microsoft.Data.OData.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Newtonsoft.Json.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\NHibernate.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Remotion.Linq.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Net.Http.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Net.Http.Formatting.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Net.Http.WebRequest.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Spatial.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Helpers.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Http.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Http.OData.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Http.Tracing.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Http.WebHost.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Mvc.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Optimization.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Providers.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Razor.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.WebPages.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\WebGrease.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\BPdeo1.pdb
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\BPdeo1.dll.config
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\BPdeo1.exe.config
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Antlr3.Runtime.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\FluentNHibernate.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Iesi.Collections.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\NHibernate.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Remotion.Linq.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\EntityFramework.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Newtonsoft.Json.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Net.Http.Formatting.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Helpers.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Http.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Http.WebHost.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Mvc.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Razor.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.WebPages.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Http.Tracing.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Web.Http.OData.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Microsoft.Data.Edm.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\Microsoft.Data.OData.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\System.Spatial.xml
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\de\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\es\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\fr\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\it\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ja\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ko\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\ru\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\MarijaStankovic\S B P\proba\BP4\Test\Test\obj\x86\Debug\Test.csproj.CopyComplete
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Test.dll.config
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Test.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Test.pdb
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Antlr3.Runtime.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\BPdeo1.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\EntityFramework.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\FluentNHibernate.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Iesi.Collections.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Microsoft.Data.Edm.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Microsoft.Data.OData.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Newtonsoft.Json.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\NHibernate.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Remotion.Linq.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Remotion.Linq.EagerFetching.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Net.Http.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Net.Http.Formatting.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Net.Http.WebRequest.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Spatial.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Helpers.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Http.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Http.OData.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Http.Tracing.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Http.WebHost.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Mvc.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Optimization.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Providers.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Razor.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.WebPages.Deployment.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.WebPages.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.WebPages.Razor.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\WebGrease.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\BPdeo1.pdb
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\BPdeo1.dll.config
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\BPdeo1.exe.config
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Antlr3.Runtime.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\FluentNHibernate.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Iesi.Collections.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\NHibernate.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Remotion.Linq.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Remotion.Linq.EagerFetching.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\EntityFramework.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Newtonsoft.Json.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Net.Http.Formatting.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Helpers.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Http.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Http.WebHost.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Mvc.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Razor.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.WebPages.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.WebPages.Deployment.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.WebPages.Razor.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Http.Tracing.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Web.Http.OData.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Microsoft.Data.Edm.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Microsoft.Data.OData.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\System.Spatial.xml
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\de\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\es\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\it\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\de\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\es\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\fr\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\it\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ja\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ko\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ru\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\de\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\es\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\fr\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\it\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ja\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ko\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\ru\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\zh-Hans\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\zh-Hant\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\obj\x86\Debug\Test.csprojAssemblyReference.cache
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\obj\x86\Debug\Test.csproj.CopyComplete
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\obj\x86\Debug\Test.dll
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\obj\x86\Debug\Test.pdb
+D:\VI semestar\Sistemi baza podataka\proba\BP4\Test\Test\bin\Oracle.ManagedDataAccess.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Test.dll.config
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Test.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Test.pdb
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Antlr3.Runtime.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\BPdeo1.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\EntityFramework.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\FluentNHibernate.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Iesi.Collections.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Microsoft.Data.Edm.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Microsoft.Data.OData.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Newtonsoft.Json.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\NHibernate.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Oracle.ManagedDataAccess.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Remotion.Linq.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Remotion.Linq.EagerFetching.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Net.Http.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Net.Http.Formatting.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Net.Http.WebRequest.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Spatial.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Helpers.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Http.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Http.OData.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Http.Tracing.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Http.WebHost.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Mvc.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Optimization.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Providers.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Razor.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.WebPages.Deployment.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.WebPages.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.WebPages.Razor.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\WebGrease.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\BPdeo1.pdb
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\BPdeo1.dll.config
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\BPdeo1.exe.config
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Antlr3.Runtime.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\FluentNHibernate.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Iesi.Collections.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\NHibernate.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Remotion.Linq.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Remotion.Linq.EagerFetching.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\EntityFramework.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Newtonsoft.Json.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Net.Http.Formatting.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Helpers.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Http.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Http.WebHost.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Mvc.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Razor.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.WebPages.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.WebPages.Deployment.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.WebPages.Razor.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Http.Tracing.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Web.Http.OData.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Microsoft.Data.Edm.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\Microsoft.Data.OData.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\System.Spatial.xml
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\de\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\es\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\it\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\de\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\es\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\fr\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\it\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ja\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ko\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ru\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\de\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\es\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\fr\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\it\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ja\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ko\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\ru\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\zh-Hans\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\bin\zh-Hant\System.Spatial.resources.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\obj\x86\Debug\Test.csprojAssemblyReference.cache
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\obj\x86\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\obj\x86\Debug\Test.csproj.CopyComplete
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\obj\x86\Debug\Test.dll
+D:\VI semestar\Sistemi baza podataka\BP4\Test\Test\obj\x86\Debug\Test.pdb

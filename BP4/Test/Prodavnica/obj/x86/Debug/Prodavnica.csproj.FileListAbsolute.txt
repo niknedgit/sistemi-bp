@@ -1,0 +1,53 @@
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\NHibernate.dll
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\NHibernate.Linq.dll
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\NHibernate.xml
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\bin\Debug\NHibernate.Linq.xml
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.Form1.resources
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.exe
+C:\Users\Bogda\Desktop\Prodavnica - III deo\Prodavnica\obj\x86\Debug\Prodavnica.pdb
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.dll.config
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\NHibernate.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\NHibernate.Linq.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\NHibernate.xml
+C:\Users\Bogda\Desktop\Test\Prodavnica\bin\Debug\NHibernate.Linq.xml
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.Form1.resources
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.dll
+C:\Users\Bogda\Desktop\Test\Prodavnica\obj\x86\Debug\Prodavnica.pdb
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\Prodavnica.dll.config
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\Prodavnica.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\FluentNHibernate.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\Iesi.Collections.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\NHibernate.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\NHibernate.Linq.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\FluentNHibernate.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\Iesi.Collections.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\NHibernate.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\bin\Debug\NHibernate.Linq.xml
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.Form1.resources
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.dll
+C:\Users\Bogda\Desktop\WebAPI\Test\Prodavnica\obj\x86\Debug\Prodavnica.pdb
